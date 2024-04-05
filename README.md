@@ -9,4 +9,4 @@
 To contribute docs, you can fork and edit this repository. After that, create a pull request.
 
 ## Issues
-If you found some issue, or adding features, create an issue.
+If you found some issue, or adding features, or contribute example videos for settings, create an issue.
