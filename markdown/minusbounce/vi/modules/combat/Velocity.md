@@ -1,0 +1,1 @@
+Bạn biết knockback là gì không, biết rồi thì khi bật Velocity knockback sẽ đéo có tác dụng với bạn, nhưng trong trường hợp gặp những anticheat mạnh vãi lồn thì nó sẽ được căn chỉnh lại để giảm knockback chứ không làm knockback biến mất hoàn toàn chứ không bị anticheat phát hiện thì nó chặt cu.
