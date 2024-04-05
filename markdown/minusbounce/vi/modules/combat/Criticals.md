@@ -1,4 +1,4 @@
-#Criticals
+# Criticals
 Tên thường gọi: Sát thương chí mạng,
 Danh mục: Combat,
 Chức năng: Tăng sát thương cho đòn đánh của bạn,
