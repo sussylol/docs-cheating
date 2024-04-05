@@ -18,10 +18,7 @@
 -CritTiming: Criticals sẽ 
 </br>
 +Always: Luôn luôn hoạt động
-</br>
 +OnGround: Chỉ hoạt động khi bạn ở mặt đất
-</br>
 +OffGround: Chỉ hoạt động khi bạn không ở mặt đất (ví dụ như khi nhảy lên)
-</br>
 
 #### Lưu ý: Cái này sẽ có chế độ riêng cho từng anticheat vì nếu sài sai chế độ không qua mặt được anticheat đó thì bạn sẽ bị anticheat flag.
