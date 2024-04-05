@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Cheating Documentation/h1>
+  <h1>Cheating Documentation</h1>
   <h3>A repository for documentation how to set up and configure config for cheating</h3>
   Website: https://minusbounce.lol</br>
   Discord: https://discord.minusbounce.lol
