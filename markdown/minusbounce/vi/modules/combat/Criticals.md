@@ -1,11 +1,11 @@
 # Criticals
-- Tên thường gọi: Sát thương chí mạng,
+-Tên thường gọi: Sát thương chí mạng
 </br>
-- Danh mục: Combat,
+Danh mục: Combat
 </br>
-- Chức năng: Tăng sát thương cho đòn đánh của bạn,
+-Chức năng: Tăng sát thương cho đòn đánh của bạn
 </br>
-- Phím mặc định: NONE,
+Phím mặc định: NONE
 </br>
 - Video ví dụ: https://www.youtube.com/watch?v=Znj4S9gKqtk
 </br>
