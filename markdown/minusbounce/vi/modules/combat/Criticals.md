@@ -1,4 +1,4 @@
-Tên thưởng gọi: Sát thương chí mạng,
+Tên thường gọi: Sát thương chí mạng,
 Danh mục: Combat,
 Chức năng: Tăng sát thương cho đòn đánh của bạn,
 Phím mặc định: NONE,
