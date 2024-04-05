@@ -11,11 +11,11 @@
 </br>
 #### Setting:
 </br>
--Delay: Độ trễ để Criticals bắt đầu hoạt động, càng cao thì càng chậm.
+- Delay: Độ trễ để Criticals bắt đầu hoạt động, càng cao thì càng chậm.
 </br>
--Flag pause: Bạn bị anticheat flag thì Criticals sẽ tạm dừng hoạt động.
+- Flag pause: Bạn bị anticheat flag thì Criticals sẽ tạm dừng hoạt động.
 </br>
--CritTiming: Criticals sẽ 
+- CritTiming: Criticals sẽ 
 </br>
 +  Always: Luôn luôn hoạt động
 </br>
