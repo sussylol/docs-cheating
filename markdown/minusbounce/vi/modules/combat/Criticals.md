@@ -1,12 +1,20 @@
 # Criticals
--Tên thường gọi: Sát thương chí mạng
+#### Tên thường gọi: Sát thương chí mạng
 </br>
--Danh mục: Combat
+#### Danh mục: Combat
 </br>
--Chức năng: Tăng sát thương cho đòn đánh của bạn
+#### Chức năng: Tăng sát thương cho đòn đánh của bạn
 </br>
--Phím mặc định: NONE
+#### Phím mặc định: NONE
 </br>
--Video ví dụ: https://www.youtube.com/watch?v=Znj4S9gKqtk
+#### Video ví dụ: https://www.youtube.com/watch?v=Znj4S9gKqtk
 </br>
-*Lưu ý: Cái này sẽ có chế độ riêng cho từng anticheat vì nếu sài sai chế độ không qua mặt được anticheat đó thì bạn sẽ bị anticheat flag.
+#### Setting:
+-Delay: Độ trễ để Criticals bắt đầu hoạt động, càng cao thì càng chậm.
+-Flag pause: Bạn bị anticheat flag thì Criticals sẽ tạm dừng hoạt động.
+-CritTiming: Criticals sẽ 
++Always: Luôn luôn hoạt động
++OnGround: Chỉ hoạt động khi bạn ở mặt đất
++OffGround: Chỉ hoạt động khi bạn không ở mặt đất (ví dụ như khi nhảy lên)
+</br>
+#### Lưu ý: Cái này sẽ có chế độ riêng cho từng anticheat vì nếu sài sai chế độ không qua mặt được anticheat đó thì bạn sẽ bị anticheat flag.
