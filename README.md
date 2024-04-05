@@ -5,8 +5,8 @@
   Discord: https://discord.minusbounce.lol
 </div>
 
-##Contributing
+## Contributing
 To contribute docs, you can fork and edit this repository. After that, create a pull request.
 
-##Issues
+## Issues
 If you found some issue, or adding features, create an issue.
